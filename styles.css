@@ -5,6 +5,18 @@ body {
     text-align: center;
 }
 
+.nav-bar {
+    background-color: #7C21DE;
+    margin: auto;
+    color: #fff;
+    padding: 20px 50px;
+    text-align: left;
+}
+
+.title {
+    margin: 0;
+}
+
 .cuerpo {
     width: 90%;
     height: auto;
